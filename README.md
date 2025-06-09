@@ -1,2 +1,2 @@
 # MW App's
-Just some python random scripts.
+Just some python mw scripts.
