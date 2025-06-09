@@ -1,2 +1,2 @@
-# MW App's
+# MW Scripts
 Just some python mw scripts.
